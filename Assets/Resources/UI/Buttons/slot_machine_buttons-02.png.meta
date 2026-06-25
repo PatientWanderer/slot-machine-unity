@@ -135,7 +135,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: slot_machine_buttons-02_0
+      name: Normal
       rect:
         serializedVersion: 2
         x: 14
@@ -143,7 +143,7 @@ TextureImporter:
         width: 227
         height: 226
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -157,15 +157,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slot_machine_buttons-02_1
+      name: Hover
       rect:
         serializedVersion: 2
-        x: 14
+        x: 12
         y: 523
         width: 226
         height: 227
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -179,7 +179,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slot_machine_buttons-02_2
+      name: Pressed
       rect:
         serializedVersion: 2
         x: 14
@@ -187,7 +187,7 @@ TextureImporter:
         width: 227
         height: 225
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -201,15 +201,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slot_machine_buttons-02_3
+      name: Disabled
       rect:
         serializedVersion: 2
         x: 15
-        y: 11
+        y: 9
         width: 227
         height: 226
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 48e27469332ebfe479e7919c0476a46b
     internalID: 0
     vertices: []
     indices: 
@@ -236,10 +236,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      slot_machine_buttons-02_0: 1933508977742736135
-      slot_machine_buttons-02_1: -2799173402720176896
-      slot_machine_buttons-02_2: -39037251207825769
-      slot_machine_buttons-02_3: -7035828468125977752
+      Disabled: -7035828468125977752
+      Hover: -2799173402720176896
+      Normal: 1933508977742736135
+      Pressed: -39037251207825769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

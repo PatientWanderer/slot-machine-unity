@@ -141,7 +141,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Yes_No_Btn_0
+      name: Yes_Normal
       rect:
         serializedVersion: 2
         x: 69
@@ -149,7 +149,7 @@ TextureImporter:
         width: 373
         height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -163,7 +163,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yes_No_Btn_1
+      name: No_Normal
       rect:
         serializedVersion: 2
         x: 547
@@ -171,7 +171,7 @@ TextureImporter:
         width: 373
         height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -185,7 +185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yes_No_Btn_2
+      name: Yes_Highlighted
       rect:
         serializedVersion: 2
         x: 69
@@ -193,7 +193,7 @@ TextureImporter:
         width: 373
         height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yes_No_Btn_3
+      name: No_Highlighted
       rect:
         serializedVersion: 2
         x: 547
@@ -215,7 +215,7 @@ TextureImporter:
         width: 373
         height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yes_No_Btn_4
+      name: Yes_Pressed
       rect:
         serializedVersion: 2
         x: 69
@@ -237,7 +237,7 @@ TextureImporter:
         width: 373
         height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -251,7 +251,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yes_No_Btn_5
+      name: No_Pressed
       rect:
         serializedVersion: 2
         x: 547
@@ -259,7 +259,7 @@ TextureImporter:
         width: 373
         height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -276,7 +276,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c64de8d0705207541be608b79914f48f
     internalID: 0
     vertices: []
     indices: 
@@ -286,12 +286,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Yes_No_Btn_0: 5739530818460350163
-      Yes_No_Btn_1: -6555535889777328244
-      Yes_No_Btn_2: 1113226478746273375
-      Yes_No_Btn_3: -277703781793936374
-      Yes_No_Btn_4: -789108114507029827
-      Yes_No_Btn_5: -6888157879523106966
+      No_Highlighted: -277703781793936374
+      No_Normal: -6555535889777328244
+      No_Pressed: -6888157879523106966
+      Yes_Highlighted: 1113226478746273375
+      Yes_Normal: 5739530818460350163
+      Yes_Pressed: -789108114507029827
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
